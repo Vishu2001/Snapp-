@@ -1,9 +1,6 @@
-# Snap-It-MERN
+# Snapp!
 
-## Visit Snap-It: https://snap-it-vaibhav.web.app/
-## Youtube Video: https://youtu.be/psdz7IJ4OCs
-
-### Snap-It is a social media app based on MERN stack having various features:
+### Snapp! is a social media app based on MERN stack having various features:
 1) Create/Delete your account
 2) Post images in feed with hide likes/comments feature
 3) Like/comment on posts
